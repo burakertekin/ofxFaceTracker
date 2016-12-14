@@ -40,6 +40,7 @@
 #ifndef __IO_h_
 #define __IO_h_
 #include <opencv/cv.h>
+#include <imgproc.hpp>
 #include <fstream>
 namespace FACETRACKER
 {
